@@ -1,0 +1,16 @@
+﻿sample,n,variable,OR,CI_lower,CI_upper,p,AUC,accuracy
+exclude_multi_iso (iso_count>1),77,geo_barrier,0.05,0.001,4.186,0.185,0.717,0.818
+exclude_multi_iso (iso_count>1),77,external_threat,0.747,0.056,10.052,0.826,0.717,0.818
+exclude_multi_iso (iso_count>1),77,relative_pop,0.269,0.06,1.214,0.088,0.717,0.818
+exclude_multi_iso (iso_count>1),77,regime_duration_yrs,1.001,0.998,1.004,0.542,0.717,0.818
+exclude_multi_iso (iso_count>1),77,has_external_patron,0.978,0.143,6.687,0.982,0.717,0.818
+exclude_top25_relative_pop,58,geo_barrier,0.042,0.0,5.622,0.205,0.798,0.879
+exclude_top25_relative_pop,58,external_threat,1.202,0.078,18.581,0.895,0.798,0.879
+exclude_top25_relative_pop,58,relative_pop,0.701,0.019,26.366,0.848,0.798,0.879
+exclude_top25_relative_pop,58,regime_duration_yrs,1.005,1.0,1.011,0.071,0.798,0.879
+exclude_top25_relative_pop,58,has_external_patron,1.797,0.254,12.723,0.557,0.798,0.879
+exclude_pre_1500 (ancient+medieval),46,geo_barrier,0.027,0.0,6.522,0.197,0.712,0.761
+exclude_pre_1500 (ancient+medieval),46,external_threat,0.978,0.051,18.751,0.988,0.712,0.761
+exclude_pre_1500 (ancient+medieval),46,relative_pop,0.569,0.094,3.458,0.541,0.712,0.761
+exclude_pre_1500 (ancient+medieval),46,regime_duration_yrs,1.002,0.996,1.008,0.552,0.712,0.761
+exclude_pre_1500 (ancient+medieval),46,has_external_patron,1.978,0.292,13.413,0.485,0.712,0.761

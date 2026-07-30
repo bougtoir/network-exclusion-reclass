@@ -1,0 +1,6 @@
+﻿closure_type,n,collapsed,survived,collapse_rate,fisher_or,fisher_p
+bloc,12,12,0,1.0,inf,0.03
+land_isolation,6,5,1,0.833,2.857,0.63
+maritime_ban,7,5,2,0.714,1.429,1.0
+patron_open,4,4,0,1.0,inf,0.277
+tech_network_exclusion,25,22,3,0.88,4.19,0.083

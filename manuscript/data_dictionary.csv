@@ -1,0 +1,8 @@
+﻿Variable,Definition
+geo_barrier,Composite maritime and terrain barrier (coastline share + Nunn-Puga ruggedness)
+external_threat,Capital proximity threat from neighbouring polities and major empires
+relative_pop,Polity population relative to the largest coexisting polity
+regime_duration_yrs,Duration of the polity in years from period string
+has_external_patron,Binary indicator of great-power patron/protector
+rater_closure_type,"Source-anchored closure category (open, maritime_ban, land_isolation, tech_network_exclusion, bloc, policy_closure, patron_open, uncertain)"
+tree_exclusion_score,"Cliopatria phylogenetic/network embeddedness score (1 = isolated, 0 = embedded)"

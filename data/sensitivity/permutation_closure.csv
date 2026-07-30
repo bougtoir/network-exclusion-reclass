@@ -1,0 +1,8 @@
+﻿variable,observed_or,n_perm,perm_p
+closure_bloc,5.434,300,0.1
+closure_land_isolation,2.627,300,0.377
+closure_maritime_ban,3.117,300,0.317
+closure_patron_open,5.308,300,0.113
+closure_tech_network_exclusion,4.988,300,0.037
+relative_pop,0.35,300,0.163
+regime_duration_yrs,1.001,300,0.38

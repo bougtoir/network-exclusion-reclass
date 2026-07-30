@@ -1,0 +1,11 @@
+﻿feature,coef,OR,CI_lower,CI_upper,p
+geo_barrier,-2.996,0.05,0.001,4.186,0.185
+external_threat,-0.292,0.747,0.056,10.052,0.826
+relative_pop,-1.312,0.269,0.06,1.214,0.088
+regime_duration_yrs,0.001,1.001,0.998,1.004,0.542
+has_external_patron,-0.022,0.978,0.143,6.687,0.982
+n,77.0,,,,
+collapsed,63.0,,,,
+survived,14.0,,,,
+AUC,0.717,,,,
+accuracy,0.818,,,,

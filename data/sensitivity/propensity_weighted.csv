@@ -1,0 +1,6 @@
+﻿closure_type,n,n_treat,n_open,weighted_rate_treat,weighted_rate_open,weighted_diff,ate_or,ate_ci_lower,ate_ci_upper,ate_p
+bloc,34,12,22,1.0,0.606,0.394,,,,
+land_isolation,28,6,22,0.811,0.62,0.191,,,,
+maritime_ban,29,7,22,0.686,0.652,0.033,,,,
+patron_open,26,4,22,1.0,0.625,0.375,,,,
+tech_network_exclusion,47,25,22,0.858,0.7,0.158,,,,

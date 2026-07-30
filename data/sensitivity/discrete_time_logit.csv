@@ -1,0 +1,16 @@
+﻿variable,coef,or,p,se
+const,1.409,4.09,0.404,1.69
+time,0.214,1.239,0.0,0.048
+geo_barrier,-1.775,0.17,0.122,1.146
+external_threat,-1.291,0.275,0.158,0.915
+relative_pop,0.276,1.317,0.585,0.504
+has_external_patron,0.435,1.545,0.786,1.603
+closure_bloc,2.599,13.453,0.018,1.098
+closure_land_isolation,0.347,1.414,0.669,0.809
+closure_maritime_ban,-0.354,0.702,0.555,0.6
+closure_patron_open,0.314,1.368,0.856,1.723
+closure_tech_network_exclusion,0.11,1.116,0.809,0.456
+era_ancient,-2.661,0.07,0.033,1.248
+era_early_modern,-1.439,0.237,0.228,1.193
+era_medieval,-3.108,0.045,0.015,1.271
+era_modern,-0.894,0.409,0.445,1.171

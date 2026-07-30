@@ -1,0 +1,13 @@
+﻿feature,coef,OR,CI_lower,CI_upper,p,n,collapsed,survived,AUC,accuracy,model
+closure_bloc,2.685,14.655,0.766,280.226,0.075,76,62,14,0.752,0.816,closure_only
+closure_land_isolation,0.765,2.149,0.293,15.789,0.452,76,62,14,0.752,0.816,closure_only
+closure_maritime_ban,0.254,1.29,0.231,7.189,0.772,76,62,14,0.752,0.816,closure_only
+closure_patron_open,1.663,5.276,0.252,110.514,0.284,76,62,14,0.752,0.816,closure_only
+closure_tech_network_exclusion,1.327,3.768,0.921,15.42,0.065,76,62,14,0.752,0.816,closure_only
+closure_bloc,2.856,17.399,0.866,349.565,0.062,76,62,14,0.789,0.829,closure_with_controls
+closure_land_isolation,0.633,1.883,0.243,14.616,0.545,76,62,14,0.789,0.829,closure_with_controls
+closure_maritime_ban,0.224,1.251,0.217,7.218,0.802,76,62,14,0.789,0.829,closure_with_controls
+closure_patron_open,1.462,4.315,0.183,101.978,0.365,76,62,14,0.789,0.829,closure_with_controls
+closure_tech_network_exclusion,0.829,2.291,0.522,10.054,0.272,76,62,14,0.789,0.829,closure_with_controls
+relative_pop,-0.783,0.457,0.099,2.107,0.315,76,62,14,0.789,0.829,closure_with_controls
+regime_duration_yrs,0.002,1.002,0.998,1.006,0.282,76,62,14,0.789,0.829,closure_with_controls

@@ -1,0 +1,16 @@
+﻿outcome_definition,variable,OR,CI_lower,CI_upper,p,AUC,accuracy,n
+disrupted=overtaken,geo_barrier,0.05,0.001,4.186,0.185,0.717,0.818,collapsed_do
+disrupted=overtaken,external_threat,0.747,0.056,10.052,0.826,0.717,0.818,collapsed_do
+disrupted=overtaken,relative_pop,0.269,0.06,1.214,0.088,0.717,0.818,collapsed_do
+disrupted=overtaken,regime_duration_yrs,1.001,0.998,1.004,0.542,0.717,0.818,collapsed_do
+disrupted=overtaken,has_external_patron,0.978,0.143,6.687,0.982,0.717,0.818,collapsed_do
+disrupted=survived,geo_barrier,1.09,0.053,22.399,0.956,0.763,0.727,collapsed_ds
+disrupted=survived,external_threat,0.092,0.009,0.918,0.042,0.763,0.727,collapsed_ds
+disrupted=survived,relative_pop,0.628,0.164,2.411,0.498,0.763,0.727,collapsed_ds
+disrupted=survived,regime_duration_yrs,1.004,1.001,1.007,0.007,0.763,0.727,collapsed_ds
+disrupted=survived,has_external_patron,1.579,0.333,7.482,0.565,0.763,0.727,collapsed_ds
+only overtaken,geo_barrier,1.09,0.053,22.399,0.956,0.763,0.727,collapsed_oo
+only overtaken,external_threat,0.092,0.009,0.918,0.042,0.763,0.727,collapsed_oo
+only overtaken,relative_pop,0.628,0.164,2.411,0.498,0.763,0.727,collapsed_oo
+only overtaken,regime_duration_yrs,1.004,1.001,1.007,0.007,0.763,0.727,collapsed_oo
+only overtaken,has_external_patron,1.579,0.333,7.482,0.565,0.763,0.727,collapsed_oo

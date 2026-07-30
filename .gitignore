@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+venv/
+*.pyc
+.DS_Store
+
+# Cached public geospatial datasets (downloaded on first run)
+data/raw/

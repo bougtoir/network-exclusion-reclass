@@ -1,0 +1,16 @@
+﻿era,n,variable,OR,CI_lower,CI_upper,p,AUC,accuracy
+early_modern,21,geo_barrier,0.767,0.0,1536.237,0.945,0.838,0.81
+early_modern,21,external_threat,0.329,0.001,72.216,0.686,0.838,0.81
+early_modern,21,relative_pop,0.158,0.012,2.159,0.167,0.838,0.81
+early_modern,21,regime_duration_yrs,1.001,0.99,1.013,0.824,0.838,0.81
+early_modern,21,has_external_patron,0.353,0.003,36.128,0.659,0.838,0.81
+modern,12,geo_barrier,0.0,0.0,347.696,0.232,0.886,0.833
+modern,12,external_threat,0.253,0.001,96.538,0.65,0.886,0.833
+modern,12,relative_pop,6.692,0.139,322.66,0.336,0.886,0.833
+modern,12,regime_duration_yrs,0.995,0.967,1.025,0.758,0.886,0.833
+modern,12,has_external_patron,13.238,0.253,691.548,0.201,0.886,0.833
+20c,13,geo_barrier,9.008,0.0,8296829.967,0.754,1.0,1.0
+20c,13,external_threat,26100.355,0.0,1526598115811.864,0.265,1.0,1.0
+20c,13,relative_pop,195.3,0.004,10044177.288,0.341,1.0,1.0
+20c,13,regime_duration_yrs,0.984,0.914,1.059,0.661,1.0,1.0
+20c,13,has_external_patron,5.52,0.02,1528.841,0.552,1.0,1.0

@@ -1,0 +1,24 @@
+entity,period,end_year,state_continues_recommended,rationale
+オスマン帝国（後期）,AD1600-AD1922,1922,0,"Ottoman Empire ended; Turkey is successor, not same state"
+清朝中国（後期）,AD1800-AD1912,1912,1,Qing ended but China (PRC/ROC) is continuing state under international law
+大英帝国,AD1815-AD1945,1945,1,British Empire ended but UK state continues
+明治〜大正日本,AD1868-AD1930,1930,1,Japan state continues (different regime)
+エチオピア帝国,AD1855-AD1936,1936,1,"Ethiopia state continues (monarchy overthrown, republic continues)"
+シャム（タイ）,AD1782-AD1932,1932,1,Thailand continues as same state
+1930s日本（大東亜共栄圏）,AD1930-AD1945,1945,1,"Japan state continues (imperial sphere, not separate state)"
+ナチスドイツ,AD1933-AD1945,1945,1,Germany continues (FRG/Unified Germany successor to Reich subject)
+ファシストイタリア,AD1922-AD1943,1943,1,Italy state continues (regime changed)
+ソ連,AD1922-AD1991,1991,0,USSR ended; Russian Federation is successor but not same state
+東ドイツ,AD1949-AD1990,1990,0,East Germany ended; unified Germany is successor
+ユーゴスラビア,AD1945-AD1992,1992,0,Yugoslavia ended; successor states
+英国帝国特恵制度,AD1932-AD1960,1960,0,"Imperial preference trade system, not a state"
+米国（戦後〜冷戦期）,AD1945-AD1991,1991,1,USA continues
+戦後日本（高度成長期）,AD1945-AD1990,1990,1,Japan continues
+ロシア帝国（ピョートル後）,AD1721-AD1917,1917,0,Russian Empire ended; USSR/Russia successors
+オーストリア＝ハンガリー帝国,AD1867-AD1918,1918,0,Austria-Hungary ended
+大韓帝国,AD1897-AD1910,1910,0,"Korean Empire annexed; modern Korea is successor, not same state"
+満州国,AD1932-AD1945,1945,0,Manchukuo ended
+南ベトナム,AD1955-AD1975,1975,0,South Vietnam ended; unified Vietnam successor
+チェコスロバキア（共産期）,AD1948-AD1989,1989,0,Czechoslovakia ended
+ポーランド（共産期）,AD1947-AD1989,1989,1,Poland continues (regime changed)
+ルーマニア（共産期）,AD1947-AD1989,1989,1,Romania continues (regime changed)

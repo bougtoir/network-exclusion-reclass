@@ -1,0 +1,80 @@
+﻿entity,capital_name,capital_lat,capital_lon,source_ref,needs_review,notes
+アケメネス朝ペルシア,Persepolis,29.9355,52.8917,Wikipedia: Persepolis,1,Achaemenid royal centre; multiple capitals existed.
+アテネ（ペロポネソス戦争後）,Athens,37.98376,23.72784,GeoNames cities1000,0,
+スパルタ,Sparta,37.07446,22.43009,GeoNames cities1000,0,
+カルタゴ,Carthage,36.86108,10.33161,GeoNames cities1000,0,Ancient city near modern Tunis.
+ローマ共和政〜帝政前期,Rome,41.89193,12.51133,GeoNames cities1000,0,
+ローマ帝政後期（西）,Rome,41.89193,12.51133,GeoNames cities1000,0,
+プトレマイオス朝エジプト,Alexandria,31.20176,29.91582,GeoNames cities1000,0,
+漢朝（前漢〜後漢）,Xi'an,34.25833,108.92861,GeoNames cities1000,0,"Chang'an, modern Xi'an."
+ビザンツ帝国（前期）,Istanbul,41.01384,28.94966,GeoNames cities1000,0,Constantinople.
+ビザンツ帝国（後期）,Istanbul,41.01384,28.94966,GeoNames cities1000,0,Constantinople.
+アッバース朝（前期）,Baghdad,33.34058,44.40088,GeoNames cities1000,0,
+アッバース朝（後期）,Baghdad,33.34058,44.40088,GeoNames cities1000,0,
+宋朝中国,Kaifeng,34.797,114.3444,GeoNames: Kaifeng,0,Northern Song capital; Southern Song later moved to Hangzhou.
+モンゴル帝国,Karakorum,47.1965,102.8246,Wikipedia: Karakorum,1,Nomadic capital; later also Khanbaliq/Beijing.
+マムルーク朝エジプト,Cairo,30.06263,31.24967,GeoNames cities1000,0,
+ヴェネツィア共和国,Venice,45.43713,12.33265,GeoNames cities1000,0,
+ハンザ同盟,Lübeck,53.86893,10.68729,GeoNames cities1000,0,De facto capital of the Hanseatic League.
+オスマン帝国（前期）,Edirne,41.67719,26.55597,GeoNames cities1000,0,Early Ottoman capital before Constantinople fell in 1453.
+オスマン帝国（後期）,Istanbul,41.01384,28.94966,GeoNames cities1000,0,
+明朝中国,Beijing,39.9075,116.39723,GeoNames cities1000,0,
+清朝中国（前期）,Beijing,39.9075,116.39723,GeoNames cities1000,0,
+清朝中国（後期）,Beijing,39.9075,116.39723,GeoNames cities1000,0,
+李朝朝鮮,Seoul,37.566,126.9784,GeoNames cities1000,0,Hanyang.
+徳川日本,Tokyo,35.6895,139.69171,GeoNames cities1000,0,Edo.
+ムガル帝国（後期）,Delhi,28.65195,77.23149,GeoNames cities1000,0,Shahjahanabad.
+サファヴィー朝ペルシア,Isfahan,32.65246,51.67462,GeoNames cities1000,0,
+インカ帝国,Cusco,-13.52264,-71.96734,Wikipedia: Cusco,1,
+アステカ帝国,Mexico City,19.42847,-99.12766,GeoNames cities1000,0,Tenochtitlan.
+ポルトガル帝国,Lisbon,38.72509,-9.1498,GeoNames cities1000,0,
+オランダ共和国,Amsterdam,52.37403,4.88969,GeoNames cities1000,0,
+スペイン帝国,Madrid,40.4165,-3.70256,GeoNames cities1000,0,
+ムガル帝国（前期）,Agra,27.18333,78.01667,GeoNames cities1000,0,Early Mughal capital before Delhi.
+大英帝国,London,51.50853,-0.12574,GeoNames cities1000,0,
+米国（モンロー主義期）,Washington,38.89511,-77.03637,GeoNames cities1000,0,
+明治〜大正日本,Tokyo,35.6895,139.69171,GeoNames cities1000,0,
+エチオピア帝国,Addis Ababa,9.02497,38.74689,GeoNames cities1000,0,
+シャム（タイ）,Bangkok,13.75398,100.50144,GeoNames cities1000,0,
+1930s日本（大東亜共栄圏）,Tokyo,35.6895,139.69171,GeoNames cities1000,0,
+ナチスドイツ,Berlin,52.52437,13.41053,GeoNames cities1000,0,
+ファシストイタリア,Rome,41.89193,12.51133,GeoNames cities1000,0,
+ソ連,Moscow,55.75204,37.61781,GeoNames cities1000,0,
+東ドイツ,Berlin,52.52437,13.41053,GeoNames cities1000,0,East Berlin.
+ユーゴスラビア,Belgrade,44.80401,20.46513,GeoNames cities1000,0,
+英国帝国特恵制度,London,51.50853,-0.12574,GeoNames cities1000,0,Imperial Preference trade bloc; capital of the UK.
+米国（戦後〜冷戦期）,Washington,38.89511,-77.03637,GeoNames cities1000,0,
+戦後日本（高度成長期）,Tokyo,35.6895,139.69171,GeoNames cities1000,0,
+マケドニア王国（アレクサンドロス後）,Pella,40.7617,22.525,"Wikipedia: Pella, Greece",1,Antigonid Macedonian capital.
+セレウコス朝シリア,Antakya,36.20655,36.15722,GeoNames cities1000,0,"Ancient Antioch, modern Antakya."
+パルティア,Ctesiphon,33.0938,44.5806,Wikipedia: Ctesiphon,1,Near modern Salman Pak.
+ササン朝ペルシア,Ctesiphon,33.0938,44.5806,Wikipedia: Ctesiphon,1,
+クシャーナ朝,Peshawar,34.008,71.57849,GeoNames cities1000,0,One of several Kushan capitals.
+グプタ朝インド,Pataliputra,25.5941,85.1376,Wikipedia: Patna (Pataliputra),1,Modern Patna.
+唐朝中国,Xi'an,34.25833,108.92861,GeoNames cities1000,0,Chang'an.
+ウマイヤ朝,Damascus,33.5102,36.29128,GeoNames cities1000,0,
+高麗,Kaesong,37.9703,126.5542,Wikipedia: Kaesong,1,
+クメール帝国（アンコール）,Angkor,13.4125,103.867,Wikipedia: Angkor,1,Near Siem Reap.
+シュリーヴィジャヤ,Palembang,-2.91673,104.7458,GeoNames cities1000,0,
+マジャパヒト王国,Trowulan,-7.5398,112.7009,Wikipedia: Trowulan (Majapahit capital),1,Capital near Mojokerto/Surabaya.
+キエフ大公国,Kyiv,50.45466,30.5238,GeoNames cities1000,0,
+ジェノヴァ共和国,Genoa,44.40478,8.94439,GeoNames cities1000,0,
+マリ帝国,Timbuktu,16.77348,-3.00742,GeoNames cities1000,0,Major imperial city; capital Niani is of uncertain location.
+元朝中国,Beijing,39.9075,116.39723,GeoNames cities1000,0,Khanbaliq.
+ティムール朝,Samarkand,39.65456,66.96445,GeoNames cities1000,0,
+琉球王国,Naha,26.213,127.67851,GeoNames cities1000,0,Shuri.
+ポーランド・リトアニア共和国,Warsaw,52.22977,21.01178,GeoNames cities1000,0,
+スウェーデン帝国,Stockholm,59.32938,18.06871,GeoNames cities1000,0,
+ロシア帝国（ピョートル後）,Saint Petersburg,59.93863,30.31413,GeoNames cities1000,0,
+清朝中国（中期・交易拡大期）,Beijing,39.9075,116.39723,GeoNames cities1000,0,
+ハワイ王国,Honolulu,21.30694,-157.85833,GeoNames cities1000,0,
+ズールー王国,Ulundi,-28.3355,31.4166,Wikipedia: Ulundi,1,
+ビルマ（コンバウン朝）,Mandalay,21.97473,96.08359,GeoNames cities1000,0,
+オーストリア＝ハンガリー帝国,Vienna,48.20849,16.37208,GeoNames cities1000,0,
+ナポレオン帝国,Paris,48.85341,2.3488,GeoNames cities1000,0,
+大韓帝国,Seoul,37.566,126.9784,GeoNames cities1000,0,Hanseong.
+満州国,Changchun,43.8171,125.3235,GeoNames: Changchun,0,"Xinjing, modern Changchun."
+南ベトナム,Saigon,10.8231,106.6297,GeoNames: Ho Chi Minh City (Saigon),0,
+チェコスロバキア（共産期）,Prague,50.08804,14.42076,GeoNames cities1000,0,
+ポーランド（共産期）,Warsaw,52.22977,21.01178,GeoNames cities1000,0,
+ルーマニア（共産期）,Bucharest,44.43225,26.10626,GeoNames cities1000,0,

@@ -1,0 +1,8 @@
+﻿rater_closure_type,n,collapsed,collapse_rate
+bloc,12,12,1.0
+land_isolation,6,5,0.833
+maritime_ban,7,5,0.714
+open,22,14,0.636
+patron_open,4,4,1.0
+tech_network_exclusion,25,22,0.88
+uncertain,1,1,1.0

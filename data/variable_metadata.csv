@@ -1,0 +1,17 @@
+field,value_type,origin,public_data_derived,record_level_source_in_original_dataset,replacement_guidance
+entity,historical_or_derived_factual_claim,AI-assisted entry on 2026-05-13,false,false,"Review supplementary_case_sources.csv, edit the CSV, and rerun"
+period,historical_or_derived_factual_claim,AI-assisted entry on 2026-05-13,false,false,"Review supplementary_case_sources.csv, edit the CSV, and rerun"
+era,historical_or_derived_factual_claim,AI-assisted entry on 2026-05-13,false,false,"Review supplementary_case_sources.csv, edit the CSV, and rerun"
+region,historical_or_derived_factual_claim,AI-assisted entry on 2026-05-13,false,false,"Review supplementary_case_sources.csv, edit the CSV, and rerun"
+dominant,subjective_ai_assisted_legacy,AI-assisted exploratory coding on 2026-05-13; not calculated from a public dataset,false,false,Edit this column in polity_period_records.csv and rerun reproduce.py
+stock_index,subjective_ai_assisted_legacy,AI-assisted exploratory coding on 2026-05-13; not calculated from a public dataset,false,false,Edit this column in polity_period_records.csv and rerun reproduce.py
+trade_openness,subjective_ai_assisted_legacy,AI-assisted exploratory coding on 2026-05-13; not calculated from a public dataset,false,false,Edit this column in polity_period_records.csv and rerun reproduce.py
+closure_type,historically_anchored_classification,AI-assisted classification on 2026-05-13,false,false,"Review supplementary_case_sources.csv, edit the CSV, and rerun"
+outcome,historically_anchored_classification,AI-assisted classification on 2026-05-13,false,false,"Review supplementary_case_sources.csv, edit the CSV, and rerun"
+geo_barrier,subjective_ai_assisted_legacy,AI-assisted exploratory coding on 2026-05-13; not calculated from a public dataset,false,false,Edit this column in polity_period_records.csv and rerun reproduce.py
+external_threat,subjective_ai_assisted_legacy,AI-assisted exploratory coding on 2026-05-13; not calculated from a public dataset,false,false,Edit this column in polity_period_records.csv and rerun reproduce.py
+relative_pop,subjective_ai_assisted_legacy,AI-assisted exploratory coding on 2026-05-13; not calculated from a public dataset,false,false,Edit this column in polity_period_records.csv and rerun reproduce.py
+tech_position,subjective_ai_assisted_legacy,AI-assisted exploratory coding on 2026-05-13; not calculated from a public dataset,false,false,Edit this column in polity_period_records.csv and rerun reproduce.py
+institutional_quality,subjective_ai_assisted_legacy,AI-assisted exploratory coding on 2026-05-13; not calculated from a public dataset,false,false,Edit this column in polity_period_records.csv and rerun reproduce.py
+regime_duration_yrs,historical_or_derived_factual_claim,AI-assisted entry on 2026-05-13,false,false,"Review supplementary_case_sources.csv, edit the CSV, and rerun"
+has_external_patron,historically_anchored_classification,AI-assisted classification on 2026-05-13,false,false,"Review supplementary_case_sources.csv, edit the CSV, and rerun"

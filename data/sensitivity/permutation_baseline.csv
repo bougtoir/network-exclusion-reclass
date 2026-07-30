@@ -1,0 +1,6 @@
+﻿variable,observed_or,n_perm,perm_p
+geo_barrier,0.052,500,0.106
+external_threat,0.799,500,0.844
+relative_pop,0.278,500,0.108
+regime_duration_yrs,1.001,500,0.52
+has_external_patron,1.007,500,0.996
